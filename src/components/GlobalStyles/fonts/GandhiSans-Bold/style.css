@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Gandhi Sans';
+    src: local('Gandhi Sans Bold'), local('Gandhi-Sans-Bold'),
+        url('GandhiSans-Bold.woff2') format('woff2'),
+        url('GandhiSans-Bold.woff') format('woff'),
+        url('GandhiSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
